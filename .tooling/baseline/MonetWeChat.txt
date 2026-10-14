@@ -1,0 +1,736 @@
+Binary APK
+Package name=monet.com.tencent.mm id=7f
+  type color id=01 entryCount=240
+    resource 0x7f010000 color/BW_0_Alpha_0_9_Night_Mode
+      () @0x0106006c
+    resource 0x7f010001 color/BW_0_Alpha_0_9_White_Mode
+      () @0x0106006c
+    resource 0x7f010002 color/BW_0_Alpha_0_9_night_mode
+      () @0x0106006c
+    resource 0x7f010003 color/BW_100
+      () @0x0106006c
+      (night) @0x01060097
+    resource 0x7f010004 color/BW_30_Alpha_0_9
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010005 color/BW_85
+      () #ffdadada
+      (night) #10ffffff
+    resource 0x7f010006 color/BW_90
+      () #10000000
+      (night) @0x0106009b
+    resource 0x7f010007 color/BW_90_K
+      () #10000000
+      (night) @0x0106009b
+    resource 0x7f010008 color/BW_93
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010009 color/BW_93_Night_Mode
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f01000a color/BW_97
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f01000b color/BW_BG_100
+      () @0x0106006c
+      (night) @0x01060097
+    resource 0x7f01000c color/BW_BG_19
+      () @0x01060097
+    resource 0x7f01000d color/BW_BG_20
+      () @0x01060097
+      (night) @0x0106009b
+    resource 0x7f01000e color/BW_BG_30
+      () @0x0106009b
+    resource 0x7f01000f color/BW_BG_95
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010010 color/BW_BG_98
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010011 color/Brand
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010012 color/Brand_100
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010013 color/Brand_100_CARE
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010014 color/Brand_120
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010015 color/Brand_120_CARE
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010016 color/Brand_170
+      () @0x0106003a
+      (night) @0x01060041
+    resource 0x7f010017 color/Brand_170_CARE
+      () @0x0106003a
+      (night) @0x01060041
+    resource 0x7f010018 color/Brand_80
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010019 color/Brand_80_CARE
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f01001a color/Brand_90
+      () @0x0106003c
+      (night) @0x0106003d
+    resource 0x7f01001b color/Brand_90_CARE
+      () @0x0106003c
+      (night) @0x0106003d
+    resource 0x7f01001c color/Brand_BG_100
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f01001d color/Brand_BG_100_CARE
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f01001e color/Brand_BG_110
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f01001f color/Brand_BG_110_CARE
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010020 color/Brand_BG_130
+      () @0x0106003a
+      (night) @0x01060041
+    resource 0x7f010021 color/Brand_BG_130_CARE
+      () @0x0106003a
+      (night) @0x01060041
+    resource 0x7f010022 color/Brand_BG_90
+      () @0x0106003c
+      (night) @0x0106003d
+    resource 0x7f010023 color/Brand_BG_90_CARE
+      () @0x0106003c
+      (night) @0x0106003d
+    resource 0x7f010024 color/Brand_K
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010025 color/LightGreen
+      () @0x0106003c
+      (night) @0x0106003d
+    resource 0x7f010026 color/LightGreen_100
+      () @0x0106003c
+      (night) @0x0106003d
+    resource 0x7f010027 color/LightGreen_100_CARE
+      () @0x0106003c
+      (night) @0x0106003d
+    resource 0x7f010028 color/Link
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010029 color/LinkFinder_100
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f01002a color/LinkFinder_100_CARE
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f01002b color/Link_100
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f01002c color/Link_100_CARE
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f01002d color/Red
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f01002e color/Red_100
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f01002f color/Red_90
+      () @0x0106003c
+      (night) @0x0106003d
+    resource 0x7f010030 color/Red_90_CARE
+      () @0x0106003c
+      (night) @0x0106003d
+    resource 0x7f010031 color/UN_BW_100_Alpha_0_8
+      () @0x0106006c
+      (night) @0x01060097
+    resource 0x7f010032 color/UN_BW_90
+      () #10000000
+      (night) #10ffffff
+    resource 0x7f010033 color/UN_BW_93
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010034 color/Yellow_BG_100
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010035 color/Yellow_BG_100_CARE
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010036 color/a
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010037 color/a0p
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010038 color/a0q
+      () @0x01060097
+    resource 0x7f010039 color/a1g
+      () #de000000
+      (night) #10ffffff
+    resource 0x7f01003a color/a1o
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f01003b color/a1p
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f01003c color/a1x
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f01003d color/a21
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f01003e color/a24
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f01003f color/a25
+      () @0x0106009b
+    resource 0x7f010040 color/a28
+      () @0x0106009b
+    resource 0x7f010041 color/a29
+      () @0x01060070
+      (night) #10ffffff
+    resource 0x7f010042 color/a2_
+      (night) #10ffffff
+    resource 0x7f010043 color/a2f
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010044 color/a2g
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010045 color/a2n
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010046 color/a2o
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010047 color/a2p
+      () #ffdb8f62
+      (night) #10ffffff
+    resource 0x7f010048 color/a2r
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010049 color/a2s
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f01004a color/a2u
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f01004b color/a2w
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f01004c color/a2x
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f01004d color/a32
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f01004e color/a36
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f01004f color/a37
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010050 color/a3a
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010051 color/a40
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010052 color/a4v
+      () @0x0106009b
+    resource 0x7f010053 color/a4z
+      () @0x0106009b
+    resource 0x7f010054 color/a67
+      () @0x0106006c
+      (night) @0x01060097
+    resource 0x7f010055 color/a6c
+      () @0x0106009b
+    resource 0x7f010056 color/a6f
+      () @0x0106006c
+      (night) @0x01060097
+    resource 0x7f010057 color/a71
+      () @0x0106009b
+    resource 0x7f010058 color/a7a
+      () #ccffffff
+      (night) @0x0106009b
+    resource 0x7f010059 color/a7f
+      () @0x0106006c
+      (night) @0x01060097
+    resource 0x7f01005a color/a7g
+      () @0x0106009b
+    resource 0x7f01005b color/a8b
+      () @0x0106009b
+    resource 0x7f01005c color/a8s
+      () @0x0106006c
+      (night) @0x01060097
+    resource 0x7f01005d color/a8t
+      () @0x0106009b
+    resource 0x7f01005e color/a8w
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f01005f color/a94
+      () @0x0106009b
+    resource 0x7f010060 color/a_c
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010061 color/a_g
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010062 color/a_l
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010063 color/a_w
+      (night) #10ffffff
+    resource 0x7f010064 color/aa4
+      () #ff1766be
+      (night) #10ffffff
+    resource 0x7f010065 color/aab
+      () @0x01060070
+      (night) #10ffffff
+    resource 0x7f010066 color/aad
+      () @0x01060070
+      (night) #10ffffff
+    resource 0x7f010067 color/aaq
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010068 color/aar
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010069 color/aav
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f01006a color/ab1
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f01006b color/abv
+      () @0x0106006c
+      (night) @0x01060097
+    resource 0x7f01006c color/ad9
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f01006d color/adr
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f01006e color/aex
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f01006f color/af2
+      () @0x01060097
+    resource 0x7f010070 color/af6
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010071 color/af_
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010072 color/afc
+      () #30ffffff
+      (night) @0x0106009b
+    resource 0x7f010073 color/aff
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010074 color/agj
+      (night) @0x0106009b
+    resource 0x7f010075 color/agp
+      (night) @0x0106009b
+    resource 0x7f010076 color/agq
+      (night) #10ffffff
+    resource 0x7f010077 color/ags
+      () @0x0106009b
+    resource 0x7f010078 color/ahf
+      () #10000000
+      (night) #10ffffff
+    resource 0x7f010079 color/ahk
+      () #ffffffff
+      (night) #10ffffff
+    resource 0x7f01007a color/ajh
+      () @0x0106009b
+    resource 0x7f01007b color/ajm
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f01007c color/ak_
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f01007d color/aki
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f01007e color/akl
+      () #ff666666
+    resource 0x7f01007f color/akp
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010080 color/akt
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010081 color/akw
+      () #0a000000
+      (night) #0affffff
+    resource 0x7f010082 color/am3
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010083 color/am5
+      () #ffffbb00
+      (night) @0x0106009b
+    resource 0x7f010084 color/amr
+      () #75000000
+      (night) @0x0106009b
+    resource 0x7f010085 color/an4
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010086 color/ao8
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010087 color/aos
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010088 color/ap8
+      () @0x01060097
+    resource 0x7f010089 color/apb
+      () @0x01060097
+    resource 0x7f01008a color/aq6
+      (night) @0x01060097
+    resource 0x7f01008b color/atk
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f01008c color/att
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f01008d color/aty
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f01008e color/awb
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f01008f color/axh
+      () @0x0106006c
+      (night) @0x01060097
+    resource 0x7f010090 color/axi
+      () @0x0106006c
+      (night) @0x01060097
+    resource 0x7f010091 color/b
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f010092 color/b_
+      () @0x0106009b
+    resource 0x7f010093 color/bb
+      () @0x01060097
+    resource 0x7f010094 color/c
+      () @0x0106006c
+      (night) @0x01060097
+    resource 0x7f010095 color/d
+      () @0x0106006c
+      (night) @0x01060097
+    resource 0x7f010096 color/e
+      () #ff4c4c4c
+      (night) #ff404040
+    resource 0x7f010097 color/f
+      () @0x0106006c
+      (night) @0x01060097
+    resource 0x7f010098 color/g
+      () @0x0106006c
+      (night) @0x01060097
+    resource 0x7f010099 color/h
+      () @0x0106006c
+      (night) @0x01060097
+    resource 0x7f01009a color/i
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f01009b color/j
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f01009c color/jsqp
+      () @0x01060047
+      (night) @0x01060033
+    resource 0x7f01009d color/jv
+      () @0x01060070
+    resource 0x7f01009e color/jw
+      () @0x01060070
+    resource 0x7f01009f color/jz
+      () #08000000
+    resource 0x7f0100a0 color/k
+      () #a65b5b5b
+    resource 0x7f0100a1 color/k3
+      () #80000000
+    resource 0x7f0100a2 color/k4
+      () @0x01060070
+    resource 0x7f0100a3 color/k7
+      () @0x01060070
+    resource 0x7f0100a4 color/ke
+      () @0x0106009b
+    resource 0x7f0100a5 color/kf
+      () @0x0106009b
+    resource 0x7f0100a6 color/kg
+      () @0x0106009b
+    resource 0x7f0100a7 color/kh
+      () @0x0106009b
+    resource 0x7f0100a8 color/kj
+      () @0x0106009b
+    resource 0x7f0100a9 color/kp
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f0100aa color/l
+      () #cc333333
+    resource 0x7f0100ab color/m
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f0100ac color/monet_icon_background
+      () #fff4fbf5
+      (night) @0x01060097
+    resource 0x7f0100ad color/monet_splash_background
+      () #fff4fbf5
+      (night) @0x01060097
+    resource 0x7f0100ae color/mr
+      () @0x0106009b
+    resource 0x7f0100af color/ms
+      () @0x01060097
+    resource 0x7f0100b0 color/mt
+      () @0x01060097
+    resource 0x7f0100b1 color/mv
+      () @0x01060097
+    resource 0x7f0100b2 color/mw
+      () @0x01060097
+    resource 0x7f0100b3 color/n
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f0100b4 color/n0
+      () #19000000
+    resource 0x7f0100b5 color/n1
+      () @0x01060097
+    resource 0x7f0100b6 color/n5
+      () @0x0106009b
+    resource 0x7f0100b7 color/n8
+      () @0x0106009b
+    resource 0x7f0100b8 color/n_
+      () @0x0106009b
+    resource 0x7f0100b9 color/nb
+      () @0x0106009b
+    resource 0x7f0100ba color/ni
+      () #ffff006e
+      (night) @0x01060097
+    resource 0x7f0100bb color/no
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f0100bc color/nq
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f0100bd color/o
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f0100be color/on
+      () @0x01060097
+    resource 0x7f0100bf color/ou
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f0100c0 color/ov
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f0100c1 color/p
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f0100c2 color/q6
+      () @0x0106006c
+    resource 0x7f0100c3 color/qy
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f0100c4 color/qz
+      () #ff484848
+    resource 0x7f0100c5 color/r
+      () @0x0106004c
+    resource 0x7f0100c6 color/s
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f0100c7 color/s1
+      () @0x0106009b
+    resource 0x7f0100c8 color/s2
+      () @0x01060097
+    resource 0x7f0100c9 color/s7
+      () @0x0106009b
+    resource 0x7f0100ca color/s8
+      () @0x01060097
+    resource 0x7f0100cb color/s_
+      () @0x01060097
+    resource 0x7f0100cc color/sg
+      () @0x01060097
+    resource 0x7f0100cd color/sl
+      () @0x01060097
+    resource 0x7f0100ce color/sr
+      () @0x01060097
+    resource 0x7f0100cf color/t
+      () #ff000000
+    resource 0x7f0100d0 color/ta
+      () #7fffffff
+      (night) @0x0106008b
+    resource 0x7f0100d1 color/tt
+      () #ffededed
+      (night) #10ffffff
+    resource 0x7f0100d2 color/tv
+      () #4d000000
+      (night) #10ffffff
+    resource 0x7f0100d3 color/tw
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f0100d4 color/u6
+      () #ccffffff
+      (night) #e6ffffff
+    resource 0x7f0100d5 color/ub
+      () #cc000000
+    resource 0x7f0100d6 color/up
+      () #10000000
+      (night) #10ffffff
+    resource 0x7f0100d7 color/uv
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f0100d8 color/ux
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f0100d9 color/vf
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f0100da color/vk
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f0100db color/vm
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f0100dc color/vo
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f0100dd color/xa
+      () @0x0106009b
+    resource 0x7f0100de color/xb
+      () @0x01060097
+    resource 0x7f0100df color/xg
+      () @0x01060097
+    resource 0x7f0100e0 color/xi
+      () @0x01060097
+    resource 0x7f0100e1 color/xj
+      () @0x01060097
+    resource 0x7f0100e2 color/xl
+      () @0x01060097
+    resource 0x7f0100e3 color/xr
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f0100e4 color/xw
+      () #10000000
+      (night) #10ffffff
+    resource 0x7f0100e5 color/xy
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f0100e6 color/xz
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f0100e7 color/y1
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f0100e8 color/y2
+      () #80000000
+    resource 0x7f0100e9 color/y4
+      () #80000000
+      (night) #cc000000
+    resource 0x7f0100ea color/yd
+      () @0x01060097
+    resource 0x7f0100eb color/yl
+      () @0x01060097
+    resource 0x7f0100ec color/yp
+      () @0x01060097
+    resource 0x7f0100ed color/zf
+      () @0x01060070
+      (night) @0x0106009b
+    resource 0x7f0100ee color/红包气泡遮罩
+      () @0x01060040
+      (night) @0x0106003c
+    resource 0x7f0100ef color/链接气泡遮罩2
+      () #1a000000
+      (night) #10ffffff
+  type drawable id=02 entryCount=29
+    resource 0x7f020000 drawable/a53
+      () (file) res/drawable/a53.xml type=XML
+    resource 0x7f020001 drawable/a54
+      () (file) res/drawable/a54.xml type=XML
+    resource 0x7f020002 drawable/a7s
+      () (file) res/drawable/a7s.xml type=XML
+    resource 0x7f020003 drawable/a8m
+      () (file) res/drawable/a8m.xml type=XML
+    resource 0x7f020004 drawable/a8o
+      () (file) res/drawable/a8o.xml type=XML
+    resource 0x7f020005 drawable/b8d
+      () (file) res/drawable/b8d.xml type=XML
+      (night) (file) res/drawable-night-v8/b8d.xml type=XML
+    resource 0x7f020006 drawable/b8e
+      () (file) res/drawable/b8e.xml type=XML
+      (night) (file) res/drawable-night-v8/b8e.xml type=XML
+    resource 0x7f020007 drawable/b8f
+      () (file) res/drawable/b8f.xml type=XML
+      (night) (file) res/drawable-night-v8/b8f.xml type=XML
+    resource 0x7f020008 drawable/b8g
+      () (file) res/drawable/b8g.xml type=XML
+      (night) (file) res/drawable-night-v8/b8g.xml type=XML
+    resource 0x7f020009 drawable/b8h
+      () (file) res/drawable/b8h.xml type=XML
+      (night) (file) res/drawable-night-v8/b8h.xml type=XML
+    resource 0x7f02000a drawable/b8i
+      () (file) res/drawable/b8i.xml type=XML
+      (night) (file) res/drawable-night-v8/b8i.xml type=XML
+    resource 0x7f02000b drawable/b8j
+      () (file) res/drawable/b8j.xml type=XML
+      (night) (file) res/drawable-night-v8/b8j.xml type=XML
+    resource 0x7f02000c drawable/b8r
+      () (file) res/drawable/b8r.xml type=XML
+      (night) (file) res/drawable-night-v8/b8r.xml type=XML
+    resource 0x7f02000d drawable/bm4
+      () (file) res/drawable/bm4.xml type=XML
+    resource 0x7f02000e drawable/cbr
+      () (file) res/drawable/cbr.xml type=XML
+    resource 0x7f02000f drawable/cbs
+      () (file) res/drawable/cbs.xml type=XML
+    resource 0x7f020010 drawable/chat_voice_to_text
+      () (file) res/drawable/chat_voice_to_text.xml type=XML
+    resource 0x7f020011 drawable/d_u
+      () (file) res/drawable/d_u.xml type=XML
+    resource 0x7f020012 drawable/dhq
+      (xxhdpi) (file) res/drawable-xxhdpi-v4/dhq.xml type=XML
+    resource 0x7f020013 drawable/dq7
+      () (file) res/drawable/dq7.xml type=XML
+    resource 0x7f020014 drawable/dq8
+      () (file) res/drawable/dq8.xml type=XML
+    resource 0x7f020015 drawable/icon
+      (xxhdpi) (file) res/drawable-xxhdpi-v4/icon.png type=PNG
+    resource 0x7f020016 drawable/overlay_left_link_mask
+      () (file) res/drawable/overlay_left_link_mask.xml type=XML
+    resource 0x7f020017 drawable/overlay_red_packet
+      () (file) res/drawable/overlay_red_packet.xml type=XML
+    resource 0x7f020018 drawable/overlay_red_packet_mask
+      () (file) res/drawable/overlay_red_packet_mask.xml type=XML
+    resource 0x7f020019 drawable/overlay_red_packet_received
+      () (file) res/drawable/overlay_red_packet_received.xml type=XML
+    resource 0x7f02001a drawable/overlay_red_packet_received_mask
+      () (file) res/drawable/overlay_red_packet_received_mask.xml type=XML
+    resource 0x7f02001b drawable/overlay_right_link_mask
+      () (file) res/drawable/overlay_right_link_mask.xml type=XML
+    resource 0x7f02001c drawable/overlay_transfer_expired_mask
+      () (file) res/drawable/overlay_transfer_expired_mask.xml type=XML
+  type mipmap id=03 entryCount=3
+    resource 0x7f030000 mipmap/b
+      (anydpi-v26) (file) res/mipmap-anydpi-v26/b.xml type=XML
+    resource 0x7f030001 mipmap/icon_fg
+      (mdpi) (file) res/mipmap-mdpi-v4/icon_fg.xml type=XML
+      (xhdpi) (file) res/mipmap-xhdpi-v4/icon_fg.xml type=XML
+      (xxhdpi) (file) res/mipmap-xxhdpi-v4/icon_fg.xml type=XML
+    resource 0x7f030002 mipmap/icon_themed
+      (mdpi) (file) res/mipmap-mdpi-v4/icon_themed.xml type=XML
+      (xhdpi) (file) res/mipmap-xhdpi-v4/icon_themed.xml type=XML
+      (xxhdpi) (file) res/mipmap-xxhdpi-v4/icon_themed.xml type=XML
+  type string id=04 entryCount=6
+    resource 0x7f040000 string/a0c
+      () "故事的开始，是蝉鸣不止的盛夏"
+    resource 0x7f040001 string/aua
+      () "适配版本: 大陆版 8.0.77"
+    resource 0x7f040002 string/jw
+      () "更新日期: 26.08.29"
+    resource 0x7f040003 string/kco
+      () "WeChat Monet Pro"
+    resource 0x7f040004 string/mei
+      () "HSSkyBoy"
+    resource 0x7f040005 string/mej
+      () "作者: 枯れ木, 1e93d,"

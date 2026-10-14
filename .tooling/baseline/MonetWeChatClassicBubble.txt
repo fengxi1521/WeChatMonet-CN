@@ -1,0 +1,68 @@
+Binary APK
+Package name=monet.classicbubble.com.tencent.mm id=7f
+  type drawable id=02 entryCount=23
+    resource 0x7f02001b drawable/c2c_chatfrom_remittance_expired_bg
+      () (file) res/drawable/chat_bubble_left_transfer_expired_selector.xml type=XML
+    resource 0x7f02001c drawable/c2c_chatto_remittance_expired_bg
+      () (file) res/drawable/chat_bubble_right_transfer_expired_selector.xml type=XML
+    resource 0x7f020024 drawable/drawable0024
+      () (file) res/drawable/chat_bubble_left_link_mask.xml type=XML
+    resource 0x7f020025 drawable/drawable0025
+      () (file) res/drawable/chat_bubble_right_link_mask.xml type=XML
+    resource 0x7f020026 drawable/drawable0026
+      () (file) res/drawable/chat_bubble_left_red_envelope.xml type=XML
+    resource 0x7f020028 drawable/drawable0028
+      () (file) res/drawable/chat_bubble_left_red_envelope_mask.xml type=XML
+    resource 0x7f020029 drawable/drawable0029
+      () (file) res/drawable/chat_bubble_right_red_envelope.xml type=XML
+    resource 0x7f02002a drawable/drawable002a
+      () (file) res/drawable/chat_bubble_left_red_envelope_received.xml type=XML
+    resource 0x7f02002c drawable/drawable002c
+      () (file) res/drawable/chat_bubble_left_red_envelope_received_mask.xml type=XML
+    resource 0x7f020033 drawable/drawable0033
+      () (file) res/drawable/chat_bubble_right_red_envelope_mask.xml type=XML
+    resource 0x7f020034 drawable/drawable0034
+      () (file) res/drawable/chat_bubble_right_red_envelope_received.xml type=XML
+    resource 0x7f020035 drawable/drawable0035
+      () (file) res/drawable/chat_bubble_right_red_envelope_received_mask.xml type=XML
+    resource 0x7f020036 drawable/drawable0036
+      () (file) res/drawable/chat_voice_to_text.xml type=XML
+    resource 0x7f02004c drawable/a53
+      () (file) res/drawable/chat_bubble_left_normal.xml type=XML
+    resource 0x7f02004d drawable/a54
+      () (file) res/drawable/chat_bubble_left_link.xml type=XML
+    resource 0x7f02004e drawable/a8m
+      () (file) res/drawable/chat_bubble_right_normal.xml type=XML
+    resource 0x7f02004f drawable/a8o
+      () (file) res/drawable/chat_bubble_right_link.xml type=XML
+    resource 0x7f020050 drawable/yw
+      () (file) res/drawable/chat_bubble_left_red_envelope_selector.xml type=XML
+    resource 0x7f020051 drawable/z1
+      () (file) res/drawable/chat_bubble_left_red_envelope_received_selector.xml type=XML
+    resource 0x7f020052 drawable/z8
+      () (file) res/drawable/chat_bubble_right_red_envelope_selector.xml type=XML
+    resource 0x7f020053 drawable/zc
+      () (file) res/drawable/chat_bubble_right_red_envelope_received_selector.xml type=XML
+    resource 0x7f020054 drawable/a36
+      () (file) res/drawable/chat_bubble_left_link_mask_selector.xml type=XML
+    resource 0x7f020055 drawable/a4m
+      () (file) res/drawable/chat_bubble_right_link_mask_selector.xml type=XML
+  type color id=03 entryCount=6
+    resource 0x7f030000 color/chat_bubble_left
+      () @0x0106006c
+      (night) @0x01060097
+    resource 0x7f030001 color/chat_bubble_right
+      () @0x01060047
+      (night) @0x01060033
+    resource 0x7f030002 color/chat_red_envelope
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f030003 color/chat_red_envelope_mask
+      () @0x01060040
+      (night) @0x0106003c
+    resource 0x7f030004 color/chat_transfer_mask
+      () @0x01060040
+      (night) @0x0106003c
+    resource 0x7f030005 color/chat_transfer
+      () @0x01060060
+      (night) @0x0106008b

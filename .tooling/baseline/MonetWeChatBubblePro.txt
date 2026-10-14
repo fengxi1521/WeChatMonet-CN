@@ -1,0 +1,58 @@
+Binary APK
+Package name=monet.bubblepro.com.tencent.mm id=7f
+  type color id=01 entryCount=6
+    resource 0x7f010000 color/bubble_left PUBLIC
+      () @0x01060071
+      (night) @0x0106009c
+    resource 0x7f010001 color/bubble_mask PUBLIC
+      () #00000000
+      (night) #26000000
+    resource 0x7f010002 color/bubble_outline PUBLIC
+      () #26000000
+      (night) #36ffffff
+    resource 0x7f010003 color/bubble_received PUBLIC
+      () @0x01060072
+      (night) @0x0106009d
+    resource 0x7f010004 color/bubble_right PUBLIC
+      () @0x0106005e
+      (night) @0x01060089
+    resource 0x7f010005 color/bubble_special PUBLIC
+      () @0x01060066
+      (night) @0x0106009c
+  type drawable id=02 entryCount=18
+    resource 0x7f020000 drawable/a36 PUBLIC
+      () @drawable/bubble_left_mask
+    resource 0x7f020001 drawable/a4m PUBLIC
+      () @drawable/bubble_right_mask
+    resource 0x7f020002 drawable/a53 PUBLIC
+      () @drawable/bubble_left
+    resource 0x7f020003 drawable/a54 PUBLIC
+      () @drawable/bubble_left
+    resource 0x7f020004 drawable/a8m PUBLIC
+      () @drawable/bubble_right
+    resource 0x7f020005 drawable/a8o PUBLIC
+      () @drawable/bubble_right
+    resource 0x7f020006 drawable/bubble_left PUBLIC
+      () (file) res/drawable/bubble_left.xml type=XML
+    resource 0x7f020007 drawable/bubble_left_mask PUBLIC
+      () (file) res/drawable/bubble_left_mask.xml type=XML
+    resource 0x7f020008 drawable/bubble_received_left PUBLIC
+      () (file) res/drawable/bubble_received_left.xml type=XML
+    resource 0x7f020009 drawable/bubble_received_right PUBLIC
+      () (file) res/drawable/bubble_received_right.xml type=XML
+    resource 0x7f02000a drawable/bubble_right PUBLIC
+      () (file) res/drawable/bubble_right.xml type=XML
+    resource 0x7f02000b drawable/bubble_right_mask PUBLIC
+      () (file) res/drawable/bubble_right_mask.xml type=XML
+    resource 0x7f02000c drawable/bubble_special_left PUBLIC
+      () (file) res/drawable/bubble_special_left.xml type=XML
+    resource 0x7f02000d drawable/bubble_special_right PUBLIC
+      () (file) res/drawable/bubble_special_right.xml type=XML
+    resource 0x7f020010 drawable/c2creceivermsgnodebg PUBLIC
+      () @drawable/bubble_left
+    resource 0x7f020011 drawable/c2creceivermsgnodebg_handled PUBLIC
+      () @drawable/bubble_left
+    resource 0x7f020012 drawable/c2csendermsgnodebg PUBLIC
+      () @drawable/bubble_right
+    resource 0x7f020013 drawable/c2csendermsgnodebg_handled PUBLIC
+      () @drawable/bubble_right

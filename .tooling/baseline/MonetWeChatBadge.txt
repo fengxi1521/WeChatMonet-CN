@@ -1,0 +1,9 @@
+Binary APK
+Package name=monet.badge.com.tencent.mm id=7f
+  type color id=01 entryCount=2
+    resource 0x7f010000 color/Red_100
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010001 color/ac
+      () @0x01060060
+      (night) @0x0106008b

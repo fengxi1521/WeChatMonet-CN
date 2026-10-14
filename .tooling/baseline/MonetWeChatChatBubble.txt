@@ -1,0 +1,33 @@
+Binary APK
+Package name=monet.chatbubble.com.tencent.mm id=7f
+  type color id=01 entryCount=6
+    resource 0x7f010000 color/Link_80
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010001 color/Link_80_CARE
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010002 color/Link_80_Night_Mode
+      () @0x0106008b
+    resource 0x7f010003 color/hu
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010004 color/hx
+      () @0x01060060
+      (night) @0x0106008b
+    resource 0x7f010005 color/i_
+      () #e6000000
+      (night) #ccffffff
+  type drawable id=02 entryCount=4
+    resource 0x7f020000 drawable/bzp
+      (xxhdpi) (file) res/drawable-xxhdpi-v4/bzp.xml type=XML
+      (night-xxhdpi) (file) res/drawable-night-xxhdpi-v8/bzp.xml type=XML
+    resource 0x7f020001 drawable/bzq
+      (xxhdpi) (file) res/drawable-xxhdpi-v4/bzq.xml type=XML
+      (night-xxhdpi) (file) res/drawable-night-xxhdpi-v8/bzq.xml type=XML
+    resource 0x7f020002 drawable/bzu
+      (xxhdpi) (file) res/drawable-xxhdpi-v4/bzu.xml type=XML
+      (night-xxhdpi) (file) res/drawable-night-xxhdpi-v8/bzu.xml type=XML
+    resource 0x7f020003 drawable/bzw
+      (xxhdpi) (file) res/drawable-xxhdpi-v4/bzw.xml type=XML
+      (night-xxhdpi) (file) res/drawable-night-xxhdpi-v8/bzw.xml type=XML

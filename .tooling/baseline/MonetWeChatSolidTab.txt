@@ -1,0 +1,6 @@
+Binary APK
+Package name=monet.solidtab.com.tencent.mm id=7f
+  type color id=01 entryCount=1
+    resource 0x7f010000 color/bb
+      () @0x01060070
+      (night) @0x0106009b

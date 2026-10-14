@@ -1,0 +1,14 @@
+Binary APK
+Package name=monet.multiscenecorners.com.tencent.mm id=7f
+  type color id=01 entryCount=2
+    resource 0x7f010000 color/multi_scene_input_surface
+      () @0x0106006c
+      (night) @0x01060097
+    resource 0x7f010001 color/multi_scene_key_pressed
+      () #10000000
+      (night) @0x0106009b
+  type drawable id=02 entryCount=2
+    resource 0x7f020000 drawable/aj9
+      () (file) res/drawable/aj9.xml type=XML
+    resource 0x7f020001 drawable/bw7
+      () (file) res/drawable/bw7.xml type=XML

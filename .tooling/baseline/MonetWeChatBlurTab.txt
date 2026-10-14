@@ -1,0 +1,9 @@
+Binary APK
+Package name=monet.blurtab.com.tencent.mm id=7f
+  type color id=01 entryCount=2
+    resource 0x7f010000 color/bb
+      () (file) res/color/bb.xml type=XML
+      (night) (file) res/color-night-v8/bb.xml type=XML
+    resource 0x7f010001 color/df
+      () (file) res/color/df.xml type=XML
+      (night) (file) res/color-night-v8/df.xml type=XML
